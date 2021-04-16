@@ -2,9 +2,9 @@
 #bin/
 
 # Project meta files
-/*.project
-/*.xml
-/*.jungle
+#/*.project
+#/*.xml
+#/*.jungle
 
 # Watch Images
 #Images/
