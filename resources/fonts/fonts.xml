@@ -1,0 +1,5 @@
+<fonts>
+<font id="customFont" filename="custom-large.fnt" antialias="true" filter="0123456789:"/>
+<font id="customFontSmall" filename="custom-small.fnt"/>
+<font id="customIcons" filename="custom-icons.fnt" antialias="true"/>
+</fonts>

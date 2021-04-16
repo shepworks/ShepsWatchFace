@@ -1,0 +1,17 @@
+<properties>
+
+    <property id="BackgroundColor" type="number">0x000000</property>
+    <property id="BatteryBorderColor" type="number">0x000000</property>
+    <property id="BatteryFillColor" type="number">0xFF0000</property>
+    <property id="TopDisplayColor" type="number">0x000055</property>
+    <property id="MidDisplayColor" type="number">0x000055</property>
+    <property id="BottomDisplayColor" type="number">0x000055</property>
+    
+    <property id="HoursColor" type="number">0x00FF00</property>
+    <property id="MinutesColor" type="number">0xFF0000</property>
+    <property id="DateColor" type="number">0xFFFFFF</property>
+       
+<!--<property id="SecondsColor" type="number">0xFF0000</property> -->
+       
+
+</properties>

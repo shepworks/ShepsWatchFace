@@ -1,5 +1,5 @@
 # All files in the bin directory
-bin/
+#bin/
 
 # Project meta files
 /*.project
@@ -7,4 +7,4 @@ bin/
 /*.jungle
 
 # Watch Images
-Images/
+#Images/
