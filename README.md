@@ -1,9 +1,9 @@
 # ShepsWatchFace
 A simple watch face for the Garmin Forerunner 645
 
-![Image of 2 watch faces](https://github.com/shepworks/ShepsWatchFace/Images/readme-shepwatchface-1.jpg)
+![Image of 2 watch faces](/Images/readme-shepwatchface-1.jpg)
 
-![Image of 2 watch faces](https://github.com/shepworks/ShepsWatchFace/Images/readme-shepwatchface-2.jpg)
+![Image of 2 watch faces](/Images/readme-shepwatchface-2.jpg)
 
 
 The display is divided into 3 sections.  Colors can be changed for the following items:  
