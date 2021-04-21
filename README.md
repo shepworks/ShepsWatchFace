@@ -20,7 +20,6 @@ The display is divided into 3 sections.  Colors can be changed for the following
 * Minutes
 * Battery outline
 * Battery fill
-* Battery percentage
 
 
 ## Installation
