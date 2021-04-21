@@ -43,9 +43,9 @@
         <entry filename="C:\\Users\\marsh\\eclipse-workspace\\ShepsWatchFace\\source\\LayoutsBackground.mc" id="22" lineNum="17" pc="268437772" symbol="draw"/>
         <entry filename="C:\\Users\\marsh\\eclipse-workspace\\ShepsWatchFace\\source\\LayoutsBackground.mc" id="22" lineNum="18" pc="268437825" symbol="draw"/>
         <entry filename="Rez" id="28" lineNum="18" pc="268437838" symbol="WatchFace"/>
-        <entry filename="Rez" id="28" lineNum="20" pc="268437850" symbol="WatchFace"/>
-        <entry filename="Rez" id="28" lineNum="21" pc="268437874" symbol="WatchFace"/>
-        <entry filename="Rez" id="28" lineNum="23" pc="268438037" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="21" pc="268437850" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="22" pc="268437874" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="24" pc="268438055" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
@@ -173,9 +173,9 @@
         <entry arg="true" endPc="268437659" name="state" stackId="1" startPc="268437654"/>
         <entry endPc="268437767" name="dictionary" stackId="1" startPc="268437726"/>
         <entry arg="true" endPc="268437838" name="dc" stackId="1" startPc="268437768"/>
-        <entry endPc="268438064" name="rez_cmp_local_custom_drawable_11729046888617391111" stackId="2" startPc="268437850"/>
-        <entry endPc="268438064" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268437850"/>
-        <entry arg="true" endPc="268438065" name="dc" stackId="1" startPc="268437838"/>
+        <entry endPc="268438082" name="rez_cmp_local_custom_drawable_20057560996639574686" stackId="2" startPc="268437850"/>
+        <entry endPc="268438082" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268437850"/>
+        <entry arg="true" endPc="268438083" name="dc" stackId="1" startPc="268437838"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
